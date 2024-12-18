@@ -1,3 +1,5 @@
+blizzard.com
+battle.net
 browser-intake-datadoghq.com
 chat.openai.com.cdn.cloudflare.net
 gemini.google.com
