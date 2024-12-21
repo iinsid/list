@@ -1,5 +1,10 @@
 blizzard.com
 battle.net
+vrchat.com
+vrchat.cloud
+unity3d.com
+cloud.unity3d.com
+cloudfront.net
 browser-intake-datadoghq.com
 chat.openai.com.cdn.cloudflare.net
 gemini.google.com
