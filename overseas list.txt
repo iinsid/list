@@ -1,5 +1,6 @@
 blizzard.com
 battle.net
+
 vrchat.com
 vrchat.cloud
 unity3d.com
@@ -8,6 +9,8 @@ cloudfront.net
 oculus.com
 oculuscdn.com
 securecdn.oculus.com
+oculusrift.com
+oculusvr.com
 
 browser-intake-datadoghq.com
 chat.openai.com.cdn.cloudflare.net
